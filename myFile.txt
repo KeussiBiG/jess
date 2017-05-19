@@ -1,1 +1,3 @@
  hallo je suis entrain de vouloir te modifier.
+supposons ke je suis nouveau sur git et je modifie un fichier
+que se passe t-il veritablement la bas ?
