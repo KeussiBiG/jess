@@ -1,0 +1,5 @@
+salut merveille
+je viens de voir le resultat
+concret d un commit supprimer par la commande file 
+checkout de git . c est terrible et geniale en meme 
+temps boohm.
